@@ -1,6 +1,8 @@
 ## Financial Signal Geeration with Machine Learning 
 
 Predicts whether a stock will go up or down the next day using machine learning, then simulates trading on those predictions to measure performance.
+![Signal Screenshot](outputs/SPY_performance.png)
+
 
 ## How it works
 
